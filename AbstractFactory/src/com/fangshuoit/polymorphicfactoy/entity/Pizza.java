@@ -1,4 +1,4 @@
-package com.fangshuoit.abstrctfactoy.entity;
+package com.fangshuoit.polymorphicfactoy.entity;
 
 public abstract class Pizza {
 	public abstract void prepare();

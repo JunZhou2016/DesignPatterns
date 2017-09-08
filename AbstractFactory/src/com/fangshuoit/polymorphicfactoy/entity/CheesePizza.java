@@ -1,4 +1,4 @@
-package com.fangshuoit.abstrctfactoy.entity;
+package com.fangshuoit.polymorphicfactoy.entity;
 
 public class CheesePizza extends Pizza {
 	public void prepare() {

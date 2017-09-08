@@ -1,7 +1,7 @@
-package com.fangshuoit.abstrctfactoy.factory;
+package com.fangshuoit.polymorphicfactoy.factory;
 
-import com.fangshuoit.abstrctfactoy.entity.CheesePizza;
-import com.fangshuoit.abstrctfactoy.entity.Pizza;
+import com.fangshuoit.polymorphicfactoy.entity.CheesePizza;
+import com.fangshuoit.polymorphicfactoy.entity.Pizza;
 
 public class CheesePizzaFactory implements PizzaFactory {
 
